@@ -35,9 +35,9 @@ I'm a passionate developer from Brazil, focused on creating impactful solutions 
 
 Here are some projects I'm proud of:
 
-- 🚀 [Project 1] - Brief description
-- 💡 [Project 2] - Brief description
-- 🌟 [Project 3] - Brief description
+- 🚀 [Project 1] - https://github.com/TiagoNunes01/organo
+- 💡 [Project 2] - https://github.com/TiagoNunes01/crud-java
+- 🌟 [Project 3] - https://github.com/TiagoNunes01/AppCalculadora
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoNunes01&layout=compact&langs_count=7&theme=dracula"/>
